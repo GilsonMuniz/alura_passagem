@@ -45,7 +45,7 @@ Site de Passagens desenvolvido com Django visto na plataforma **[Alura](alura.co
 ## Site:
 ### Formulário de Passagem:
 ![Formulário de Passagem](/docs/form_passagem1.png "Formulário de passagem")
-![Formulário de Passagem](/docs/form_passagem2.png "Formulário de passagem")
+![Formulário de Passagem](/docs/form_passagem3.png "Formulário de passagem")
 
 ### Exibição de Erros:
 ![Exibição de Erros](/docs/exibindo_erros.png "Exibição de erros")
