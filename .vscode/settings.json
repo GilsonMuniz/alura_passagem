@@ -1,0 +1,9 @@
+{
+    "window.autoDetectColorScheme": false,
+    "window.commandCenter": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+}
